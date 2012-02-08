@@ -1,0 +1,9 @@
+Package: com.ckant.swipablemusic
+Name: Swipe Navigation for Music
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Adds swipe controls to music app to navigate songs
+Maintainer: Chris Kant
+Depends: firmware (>= 5.0), mobilesubstrate
+Author: Chris Kant
+Section: Tweaks
